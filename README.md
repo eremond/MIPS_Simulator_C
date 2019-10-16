@@ -1,2 +1,2 @@
-# cda3101_proj2
-Backup
+# MIPS Simulator
+Written in C
